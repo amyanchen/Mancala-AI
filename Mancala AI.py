@@ -1,9 +1,7 @@
 from __future__ import print_function
 # File: Player.py
-# Author(s) names AND netid's:
-# Date:
-# Group work statement: <please type the group work statement
-#      given in the pdf here>
+# Author(s) names AND netid's: Amy Chen (acs9098), Div Dasani (dmd8603)
+
 # Defines a simple artificially intelligent player agent
 # You will define the alpha-beta pruning search algorithm
 # You will also define the score function in the MancalaPlayer class,
